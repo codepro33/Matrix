@@ -1,4 +1,4 @@
-//Pure human code , no AI was used in the creation of this code!!!!!
+//Pure human code , no AI was used in the creation of this code!!!!!!
 
 #include <array>
 #include <iostream>
